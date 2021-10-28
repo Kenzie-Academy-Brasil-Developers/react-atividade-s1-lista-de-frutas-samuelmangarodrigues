@@ -1,0 +1,27 @@
+.listFruits {
+  background-color: lightblue;
+  color: black;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-family: "Quicksand", sans-serif;
+}
+.BtnRed {
+  background-color: rgba(77, 1, 1, 0.904);
+  color: grey;
+  font-size: 30px;
+  border: 1px solid rgba(77, 1, 1, 0.904);
+  border-radius: 5px;
+  font-family: "Quicksand", sans-serif;
+}
+.BtnRed:hover {
+  background-color: red;
+  color: white;
+  transition: 0.4s;
+}
+.Title {
+  font-family: "Quicksand", sans-serif;
+}
+.Title:hover {
+  font-size: 40px;
+  transition: 0.5s;
+}
